@@ -2,7 +2,6 @@ import React from "react";
 import Bio from "./components/Bio";
 import About from "./components/About";
 import Interests from "./components/Interests";
-import Footer from "./components/Footer";
 
 class App extends React.Component {
   render() {
@@ -11,7 +10,6 @@ class App extends React.Component {
         <Bio />
         <About />
         <Interests />
-        <Footer />
       </div>
     );
   }

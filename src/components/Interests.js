@@ -1,14 +1,12 @@
-import React from 'react';
+import React from "react";
 
 const Interests = () => {
   return (
     <div className="interests">
-      <h2>Interests</h2>
-      <p>
-      Travelling, Reading articles, listening to good music and table tennis.
-      </p>
+      <h2>Interesses</h2>
+      <p>Web Design, Desenvolvimento Web, Desenvolvimento Mobile</p>
     </div>
-    )
-}
+  );
+};
 
 export default Interests;
